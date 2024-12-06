@@ -1,3 +1,3 @@
 ### 👋 Hi there!
 
-I'm Ted Xu, a software engineer.
+I'm Zuodong Xu, a software engineer.
